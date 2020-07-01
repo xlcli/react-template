@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 
 import { Provider } from '@/models/store';
 
+import Demo from '@/components/Demo';
+
 import '@/index.less';
 
 function App() {
