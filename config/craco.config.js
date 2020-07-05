@@ -22,7 +22,7 @@ module.exports = {
             "@primary-color": "#1DA57A"
         },
         lessLoaderOptions: {
-            noIeCompat: true
+            // noIeCompat: true
         }
       }
     }
