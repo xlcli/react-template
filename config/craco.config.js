@@ -19,7 +19,7 @@ module.exports = {
       plugin: require("craco-antd"),
       options: {
         customizeTheme: {
-            "@primary-color": "#1DA57A"
+            // "@primary-color": "#1DA57A"
         },
         lessLoaderOptions: {
             // noIeCompat: true
